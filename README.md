@@ -1,12 +1,48 @@
-# Personal Portfolio 🔥
-> https://velapoojitha.github.io/vela-poojitha-portfolio/
+## # Vela Poojitha – Personal Portfolio
+
+Welcome to my personal portfolio website showcasing my projects, technical skills, research contributions, and achievements.
+
+👩‍💻 About Me
+
+M.Tech Computer Science student at University of Hyderabad.
+Passionate about AI, Machine Learning, Web Development, Data Science and Research.
 
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## #🚀 Live Website
+
+👉 Portfolio Link:
+'''
+https://velapoojitha.github.io/vela-poojitha-portfolio/
+'''
+
+### 🛠 Tech Stack
+HTML5
+CSS3
+JavaScript
+Bootstrap
+Typed.js
+
+### Responsive Design
+📂 Featured Projects
+🧠 SA-JGRM – Hybrid Graph-Based Unsupervised Feature Selection
+🛒 E-Mart – Full Stack E-Commerce Website
+🛠 Mr. Repair – Service Booking Platform
+🛡 OmnishieldAI – AI-Based Smart Surveillance
+🌐 Wikipedia Search App
+🎮 Classic JavaScript Games (Snake, Tic-Tac-Toe, RPS)
+
+### ✨ Features
+Fully Responsive Design
+Clean UI & UX
+Animated Typing Effect
+Organized Project Pages
+Professional Layout
+
+### 📬 Contact
+'''
+GitHub: https://github.com/velapoojitha
+LinkedIn: https://www.linkedin.com/in/velapoojitha/
+'''
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> 
@@ -48,5 +84,3 @@
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-
