@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://srikar04.github.io/
+> https://github.com/velapoojitha/vela-poojitha-portfolio
 
 
 ## Features 📋
