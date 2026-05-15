@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://github.com/velapoojitha/vela-poojitha-portfolio
+> https://velapoojitha.github.io/vela-poojitha-portfolio/
 
 
 ## Features 📋
